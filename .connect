@@ -1,0 +1,3 @@
+sshfs start9:/home/pjreddie/trained/ trained/
+sshfs start9:/home/pjreddie/backup/ backup/
+sshfs blazeit:/home/pjreddie/documents/ documents/
