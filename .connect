@@ -1,3 +1,3 @@
-sshfs start9:/home/pjreddie/trained/ trained/
-sshfs start9:/home/pjreddie/backup/ backup/
-sshfs blazeit:/home/pjreddie/documents/ documents/
+sshfs pjreddie@start9.cs.washington.edu:/home/pjreddie/trained/ trained/
+sshfs pjreddie@start9.cs.washington.edu:/home/pjreddie/backup/ backup/
+sshfs pjreddie@blazeit.cs.washington.edu:/home/pjreddie/documents/ documents/
